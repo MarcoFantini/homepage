@@ -1,9 +1,9 @@
-import React from "react";
 import { PanelMenu } from "primereact/panelmenu";
+import React from "react";
 
-import "primereact/resources/themes/saga-blue/theme.css";
-import "primereact/resources/primereact.min.css";
 import "primeicons/primeicons.css";
+import "primereact/resources/primereact.min.css";
+import "primereact/resources/themes/saga-blue/theme.css";
 
 import favoritesData from "../db/favorites.json";
 
@@ -113,23 +113,60 @@ function convertToFavoritesData(originalData: any): FavoriteItem[] {
   return favoritesData;
 }
 
-// Example usage (replace with your original data):
-// const originalData = { ... your data ... };
-// const favorites = convertToFavoritesData(originalData);
-// console.log(favorites);
-
 const Favorkite: React.FC = () => {
   const handleClick = (link?: string) => {
     if (link) {
-      window.open(link, "_blank")
+      window.open(link, "_blank");
     }
   };
 
-  // Funzione per trasformare i dati aggiungendo l'onClick
   const transformData = (items: FavoriteItem[]): any[] => {
     return items.map((item) => ({
       ...item,
-      command: () => handleClick(item.link), // Aggiunto il comando per l'onClick
+      template: !item.items
+        ? (itemData: FavoriteItem) => (
+            <div className="p-2">
+              <div
+                style={{
+                  cursor: "pointer",
+                  minHeight: "75px",
+                  maxHeight: "fit-content",
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                  border: "1px solid #ccc",
+                  borderRadius: "4px",
+                  padding: "10px",
+                  boxShadow: "0 2px 4px rgba(0, 0, 0, 0.1)",
+                  backgroundColor: "#fff",
+                }}
+                onClick={() => handleClick(itemData.link)}
+              >
+                <div style={{ textAlign: "center" }}>
+                  <h5
+                    style={{
+                      margin: "0",
+                      fontSize: "1em",
+                      marginBottom: "2.5px",
+                    }}
+                  >
+                    {itemData.label}
+                  </h5>
+                  <p
+                    style={{
+                      wordBreak: "break-all",
+                      fontSize: "0.8em",
+                      margin: "0",
+                      color: "#555",
+                    }}
+                  >
+                    {itemData.link}
+                  </p>
+                </div>
+              </div>
+            </div>
+          )
+        : undefined,
       items: item.items ? transformData(item.items) : undefined,
     }));
   };
@@ -137,7 +174,7 @@ const Favorkite: React.FC = () => {
   const transformedData = transformData(convertToFavoritesData(favoritesData));
 
   return (
-    <div style={{ width: "900px", margin: "0 auto" }}>
+    <div style={{ width: "80%", margin: "0 auto" }}>
       <h2>Favorites</h2>
       <PanelMenu model={transformedData} />
     </div>
