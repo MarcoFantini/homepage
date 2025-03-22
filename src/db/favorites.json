@@ -1,0 +1,522 @@
+{
+  "💻 HCL Work Day": [
+    {
+      "🛰️localhost": [
+        {
+          "nome": "9000(s)",
+          "link": "https://localhost:9000/"
+        },
+        {
+          "nome": "3001",
+          "link": "http://localhost:3001/"
+        },
+        {
+          "nome": "3000(s)",
+          "link": "https://localhost:3000/"
+        },
+        {
+          "nome": "3000",
+          "link": "http://localhost:3000/"
+        }
+      ],
+      "AgenticAI": [
+        {
+          "nome": "AgenticAILocalHost",
+          "link": "http://localhost:5173/"
+        },
+        {
+          "nome": "PrimeFlex",
+          "link": "https://primeflex.org/"
+        },
+        {
+          "nome": "PrimeIcon",
+          "link": "https://primeng.org/icons"
+        },
+        {
+          "nome": "PrimeReact",
+          "link": "https://primereact.org/"
+        },
+        {
+          "nome": "Agentic - Figma",
+          "link": "https://www.figma.com/design/X8LeA3D2PbSorDTHeFFOO1/Agentic?node-id=0-1&p=f&t=Y8Dtm3eY5l15L7wj-0"
+        }
+      ],
+      "🖥️DWC": [
+        {
+          "nome": "DWClnx104",
+          "link": "https://eu-hws-lnx104.nonprod.hclpnp.com:9443/console/"
+        },
+        {
+          "WA": [
+            {
+              "nome": "DWC-37.90:9443",
+              "link": "https://10.14.37.90:9443/console/login.jsp"
+            },
+            {
+              "nome": "DWC-82.10:9443",
+              "link": "https://10.14.82.10:9443/console/"
+            },
+            {
+              "nome": "DWC - Pubblica",
+              "link": "https://hwa-demo.hclpnp.com/console/login.jsp"
+            }
+          ]
+        }
+      ],
+      "1️⃣ UnO": [
+        {
+          "nome": "UnODWC - dwc.svt.10.14.82.110.nip.io",
+          "link": "https://dwc.svt.10.14.82.110.nip.io/"
+        },
+        {
+          "nome": "Uno UI",
+          "link": "https://localhost:8443/console/"
+        },
+        {
+          "nome": "10.14.37.87:8441",
+          "link": "https://10.14.37.87:8441/"
+        },
+        {
+          "nome": "AI Data Advisor (AIDA)",
+          "link": "http://localhost:3000/engines"
+        }
+      ],
+      "🦖T-VREX": [
+        {
+          "nome": "TVREX [Jenkins]",
+          "link": "http://10.14.82.153:8080/blue/organizations/jenkins/TVREX/activity"
+        },
+        {
+          "nome": "Nexus",
+          "link": "http://10.14.37.99:8081/nexus/#browse/browse:tvrex"
+        },
+        {
+          "nome": "TVREX Jenkins Deploy",
+          "link": "https://10.14.37.91:3000/"
+        },
+        {
+          "nome": "T-VREX Pubblico",
+          "link": "https://hero-bf.hclpnp.com/login/"
+        },
+        {
+          "nome": "AframeExamples",
+          "link": "https://github.com/aframevr/aframe/blob/master/examples/showcase/hand-tracking-grab-controls/hover.js"
+        }
+      ],
+      "📉AIDA": [
+        {
+          "10.14.82.138": [
+            {
+              "nome": "AIDA.82.138",
+              "link": "https://10.14.82.138:9432/"
+            },
+            {
+              "nome": "Opensearch",
+              "link": "http://10.14.82.138:5601/"
+            }
+          ]
+        },
+        {
+          "10.14.37.117": [
+            {
+              "nome": "ADIA.117",
+              "link": "https://10.14.37.117:9432/"
+            },
+            {
+              "nome": "OpenSearch",
+              "link": "http://10.14.37.117:5601/"
+            }
+          ]
+        },
+        {
+          "10.14.37.114": [
+            {
+              "nome": "AIDA.114",
+              "link": "https://10.14.37.114:9432/"
+            },
+            {
+              "nome": "OpenSearch",
+              "link": "http://10.14.37.114:5601/app/home#/"
+            }
+          ]
+        },
+        {
+          "10.14.37.87": [
+            {
+              "nome": "AIDA.87",
+              "link": "https://10.14.37.87:9432/"
+            },
+            {
+              "nome": "OpenSearch",
+              "link": "http://10.14.37.87:5601/"
+            }
+          ]
+        },
+        {
+          "nome": "AIDA-UI [Jenkins]",
+          "link": "http://10.14.82.153:8080/job/New_AIDA/"
+        }
+      ],
+      "🤖Clara": [
+        {
+          "UnoClara": [
+            {
+              "nome": "PrimeReact",
+              "link": "https://primereact.org/installation/"
+            }
+          ]
+        },
+        {
+          "nome": "Clara UI:115",
+          "link": "https://10.14.37.115/keycloak/auth/realms/clara/protocol/openid-connect/auth?client_id=Clara&redirect_uri=https%3A%2F%2F10.14.37.115%2F&state=fcb26e01-38e3-4f74-ae74-e77180d44843&response_mode=fragment&response_type=code&scope=openid&nonce=6c9dd116-84fe-4de3-9ea0-8931c1e12e5d"
+        },
+        {
+          "nome": "Clara UI:116",
+          "link": "https://10.14.37.116/"
+        },
+        {
+          "nome": "WA:3116/tswd",
+          "link": "https://10.14.37.90:31116/twsd/#/"
+        },
+        {
+          "nome": "WA:9443/twsz",
+          "link": "https://10.14.37.90:9443/twsz/#/"
+        },
+        {
+          "nome": "RabbitMQ Management",
+          "link": "http://localhost:15672/#/queues"
+        }
+      ],
+      "💩Patronus": [
+        {
+          "nome": "HCL :: Patronus",
+          "link": "https://designsystem.hclpnp.com/"
+        },
+        {
+          "nome": "HCL Design System :: Patronus",
+          "link": "https://designsystem.hclpnp.com/showcase/getting-started/developers"
+        },
+        {
+          "nome": "Patterns / UIPattern - Login ⋅ Storybook",
+          "link": "https://10.134.37.8:8060/?path=/story/patterns-uipattern--login"
+        },
+        {
+          "nome": "Bootstrap Grid",
+          "link": "https://italia.github.io/bootstrap-italia/docs/organizzare-gli-spazi/griglie/"
+        }
+      ],
+      "others": [
+        {
+          "nome": "Urly.it",
+          "link": "https://urly.it/account/links?highlight=3yr1f"
+        },
+        {
+          "nome": "Microsoft Teams classic",
+          "link": "https://teams.microsoft.com/"
+        },
+        {
+          "nome": "Home Page",
+          "link": "https://wf30.myhcl.com/geolmsappnew/Home"
+        },
+        {
+          "nome": "Feedback System",
+          "link": "https://wf30.myhcl.com/FeedbackSystem/FeedbackDirectiTime/FeedbackDirectiTime?ApplicationIdiTime=5iI8NvAvmYV%2FZdipUw3e0Q%3D%3D&EmployeeIDiTime=PKghZDqeHuH64px1woXMIHxCBmcsFqcf3XXUREjXWi4%3D&idiTime=PKghZDqeHuH64px1woXMIHxCBmcsFqcf3XXUREjXWi4%3D"
+        },
+        {
+          "nome": "HCL Universal Orchestrator",
+          "link": "http://localhost:5173/console/design"
+        },
+        {
+          "nome": "HCL R-App 2.3.4 Roma",
+          "link": "https://apps2.hcltechsw.com/volt-apps/secure/org/app/394035dd-9637-49f5-8495-c4ee3350f7a3/launch/index.html?&form=F_User"
+        },
+        {
+          "nome": "Dashboard [Jenkins]",
+          "link": "http://10.14.82.153:8080/"
+        },
+        {
+          "nome": "iStock",
+          "link": "https://www.istockphoto.com/it/account"
+        },
+        {
+          "nome": "MEND",
+          "link": "https://saas.whitesourcesoftware.com/Wss/WSS.html#!home"
+        }
+      ]
+    }
+  ],
+  "📅 MyHCL": [
+    {
+      "nome": "MyProfileESS",
+      "link": "https://wf6.myhcl.com/ESS/about.aspx"
+    },
+    {
+      "nome": "iSuccessLearning",
+      "link": "https://wf5.myhcl.com/SFConnect/home/index/Learning"
+    },
+    {
+      "nome": "My Performance",
+      "link": "https://wf5.myhcl.com/MyPerformance/Dashboard/Index"
+    }
+  ],
+  "⏰ Reservation": [
+    {
+      "nome": "iTime",
+      "link": "https://wf24.myhcl.com/TSMS/login.aspx"
+    },
+    {
+      "nome": "ADP",
+      "link": "https://online.emea.adp.com/signin/v1?APPID=ITA_Offers&productId=6ee36430-aae6-43f9-8e71-76f81240f02d&returnURL=https://www.sipert.it.adp.com/js/externalloginClearTrust_silent.jsp&callingAppId=ITA_Offers&TARGET=-SM-https://www.sipert.it.adp.com/js/externalloginClearTrust_silent.jsp"
+    },
+    {
+      "nome": "HCL R-App",
+      "link": "https://apps2.hcltechsw.com/volt-apps/secure/org/app/394035dd-9637-49f5-8495-c4ee3350f7a3/launch/index.html?&form=F_App1"
+    },
+    {
+      "nome": "Smart Working - Excel",
+      "link": "https://hclo365.sharepoint.com/:x:/r/sites/HCLSolutions/_layouts/15/Doc.aspx?sourcedoc=%7BD80266E9-A85E-484F-AE64-A1093265BBFB%7D&file=SmartWorking.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1"
+    },
+    {
+      "nome": "GEO-LMS",
+      "link": "https://wf5.myhcl.com/geolmsapp/frmhomepage.aspx"
+    }
+  ],
+  "🏢 HCL Settings": [
+    {
+      "nome": "GitHub01HCLpnp",
+      "link": "https://github01.hclpnp.com/"
+    },
+    {
+      "nome": "JiraCloud-Central",
+      "link": "https://hclsw-jiracentral.atlassian.net/jira/your-work"
+    },
+    {
+      "nome": "PNGEgg",
+      "link": "https://www.pngegg.com/en/"
+    },
+    {
+      "nome": "Self Service Portal - Self Service Portal",
+      "link": "https://itops.hcltechsw.com/ssp"
+    },
+    {
+      "nome": "HCL Universal Orchestrator",
+      "link": "http://localhost:5173/ui/"
+    }
+  ],
+  "💸 Siti Giroconti": [
+    {
+      "nome": "Intesa San Paolo",
+      "link": "https://www.intesasanpaolo.com/ndce/webapp/globalposition-v1/homepage"
+    },
+    {
+      "nome": "Findomestic",
+      "link": "https://www.findomestic.it/"
+    },
+    {
+      "nome": "Poste Italiane",
+      "link": "https://postepay.poste.it/"
+    },
+    {
+      "nome": "PayPal",
+      "link": "https://www.paypal.com/myaccount/money/balances/summary"
+    },
+    {
+      "nome": "iliad",
+      "link": "https://www.iliad.it/account/#"
+    },
+    {
+      "nome": "McFit Area Self",
+      "link": "https://my.mcfit.com/login-register?dD1yc2ctZ3JvdXAmdz00JnY9dHJ1ZQ%3D%3D"
+    },
+    {
+      "nome": "Spotify",
+      "link": "https://open.spotify.com/?"
+    },
+    {
+      "nome": "Disney+",
+      "link": "https://www.disneyplus.com/it-it/restart-subscription"
+    },
+    {
+      "nome": "HPInstantInk",
+      "link": "https://www.hpsmart.com/it/it/ucde/org-selector?state=eyJjc3JmVG9rZW4iOiIwLjYzOTU3NjQxOTI1MTc5MzYiLCJhcHBJbnN0YW5jZUlEIjoiQW5EY0Z3OWV0Z0xsaHU2OEZiOUdYMVRob2xWT1lVNGt5dGtYaTVhNEpDMWk1OTJkVmdzaFR5TXN0Y3dQK1dRdiJ9"
+    },
+    {
+      "nome": "Budget - Klarna",
+      "link": "https://app.klarna.com/bank-and-card?clickOrigin=sidebar&previousPage=%2F"
+    },
+    {
+      "nome": "Cofidis",
+      "link": "https://areaclienti.cofidis.it/it/banque/index.html?_tabi=C&_pid=ListeDossiers"
+    },
+    {
+      "nome": "Selezione area di interesse",
+      "link": "https://www.portalesportello.it/areariservata/reserved/benvenuto-scce.aspx?idcomune=SCCE&software=X1&token=f7165792-28f1-4b12-b5bd-ff1aaaa68803"
+    }
+  ],
+  "👨‍🎓 Study": [
+    {
+      "nome": "Lezioni ed Esami Roma Tre",
+      "link": "https://ingegneriacivileinformaticatecnologieaeronautiche.uniroma3.it/en/didattica/collegio-informatica/appelli-desame/"
+    },
+    {
+      "nome": "OReilly",
+      "link": "https://learning.oreilly.com/"
+    },
+    {
+      "nome": "🎓📅 Gomp UniRomaTre",
+      "link": "https://gomp.uniroma3.it/Login?ReturnUrl=%2f"
+    },
+    {
+      "nome": "🎓🏠",
+      "link": "https://ingegneriacivileinformaticatecnologieaeronautiche.uniroma3.it/en/didattica/lezioni-aule-e-orari/"
+    },
+    {
+      "nome": "Discord",
+      "link": "https://discord.com/channels/@me"
+    },
+    {
+      "nome": "DeepL",
+      "link": "https://www.deepl.com/it/translator#it/en/"
+    },
+    {
+      "nome": "FavorKITe",
+      "link": "http://localhost:3000/#/wa-server"
+    },
+    {
+      "nome": "MoodleRM3",
+      "link": "https://ingegneriacivileinformaticatecnologieaeronautiche.el.uniroma3.it/"
+    },
+    {
+      "nome": "Teams Microsoft Teams",
+      "link": "https://teams.microsoft.com/v2/"
+    },
+    {
+      "nome": "Appelli d'esame - Dipartimento di Ingegneria Civile, Informatica e delle Tecnologie Aeronautiche",
+      "link": "https://ingegneriacivileinformaticatecnologieaeronautiche.el.uniroma3.it/course/view.php?id=1574#section-2"
+    },
+    {
+      "nome": "MARCO FANTINI - TESI TRIENNALE - Online LaTeX Editor Overleaf",
+      "link": "https://www.overleaf.com/project/67d0138cf238f19257926315"
+    },
+    {
+      "nome": "Course: AA23/24 - CALCOLATORI ELETTRONICI - 20810074 (TORLONE) | Dipartimento di Ingegneria Civile, Informatica e delle Tecnologie Aeronautiche",
+      "link": "https://ingegneriacivileinformaticatecnologieaeronautiche.el.uniroma3.it/course/view.php?id=1574#section-2"
+    }
+  ],
+  "🧊 Unity": [
+    {
+      "nome": "Unity Hub Online",
+      "link": "https://id.unity.com/en/conversations/5b10cb66-77b8-4e85-84fb-0c540898294c00af"
+    },
+    {
+      "nome": "AR-Unity",
+      "link": "https://www.youtube.com/watch?v=gpaq5bAjya8"
+    }
+  ],
+  "🛍️ Shopping": [
+    {
+      "nome": "Ebay",
+      "link": "https://signin.ebay.it/ws/eBayISAPI.dll?SignIn&ru=https%3A%2F%2Fwww.ebay.it%2Fmys%2Fhome%3Fsource%3DGBH"
+    },
+    {
+      "nome": "Amazon",
+      "link": "https://www.amazon.it/ref=nav_logo"
+    },
+    {
+      "nome": "Amazon Prime Video",
+      "link": "https://www.primevideo.com/region/eu/storefront?contentId=IncludedwithPrime&contentType=merch&merchId=IncludedwithPrime"
+    }
+  ],
+  "Alessio": [
+    {
+      "nome": "Aruba Control Panel",
+      "link": "https://areaclienti.pec.it/AreaClienti/ControlPanel.aspx"
+    },
+    {
+      "nome": "Aruba Customer Area",
+      "link": "https://customerarea.aruba.it/#!/"
+    },
+    {
+      "nome": "Fatturazione Elettronica | Aruba.it",
+      "link": "https://fatturazioneelettronica.aruba.it/#login"
+    },
+    {
+      "nome": "Fatture e Corrispettivi - Home",
+      "link": "https://ivaservizi.agenziaentrate.gov.it/portale/"
+    }
+  ],
+  "primereact": [
+    {
+      "nome": "3324324324432423",
+      "link": "https://primereact.org/inputtextarea/"
+    },
+    {
+      "nome": "PR - DataTable",
+      "link": "https://primereact.org/datatable/"
+    }
+  ],
+  "Google": [
+    {
+      "nome": "HCL Software Mail",
+      "link": "https://mail.google.com/mail/u/0/#inbox"
+    },
+    {
+      "nome": "HCL Software - Calendar",
+      "link": "https://calendar.google.com/calendar/u/0/r"
+    },
+    {
+      "nome": "Gemini",
+      "link": "https://gemini.google.com/app"
+    },
+    {
+      "nome": "Google Sheets",
+      "link": "https://docs.google.com/spreadsheets/u/0/?tgif=c"
+    }
+  ],
+  "others": [
+    {
+      "nome": "Unified Service Platform | HCLTech",
+      "link": "https://unifiedplatform.myhcl.com/USP/Myrequest"
+    },
+    {
+      "nome": "Meet - vto-bdxm-sfq",
+      "link": "https://meet.google.com/vto-bdxm-sfq"
+    },
+    {
+      "nome": "Esperienza | Il lavoro di Y Combinator in una startup",
+      "link": "https://www.workatastartup.com/application/experience"
+    },
+    {
+      "nome": "Course: AA23/24 - CALCOLATORI ELETTRONICI - 20810074 (TORLONE) | Dipartimento di Ingegneria Civile, Informatica e delle Tecnologie Aeronautiche",
+      "link": "https://ingegneriacivileinformaticatecnologieaeronautiche.el.uniroma3.it/course/view.php?id=1574#section-2"
+    },
+    {
+      "nome": "Introduction | GoJS",
+      "link": "https://gojs.net/latest/intro/index.html"
+    },
+    {
+      "nome": "Creating SubGraphs only when Expanding a Group the First Time | GoJS Diagramming Library",
+      "link": "https://gojs.net/latest/samples/grouping.html"
+    },
+    {
+      "nome": "Ports in Nodes | GoJS",
+      "link": "https://gojs.net/latest/intro/ports.html"
+    },
+    {
+      "nome": "GraphLinksModel | GoJS API",
+      "link": "https://gojs.net/latest/api/symbols/GraphLinksModel.html#addLinkData"
+    },
+    {
+      "nome": "ai-platform-stories.md - Google Docs",
+      "link": "https://docs.google.com/document/d/1CEkjZN9cmbZk3CzIPOTwTJidCMnp9q7GGYk_JQ9ulYc/edit?usp=drive_link"
+    },
+    {
+      "nome": "Font Awesome Cheatsheet",
+      "link": "https://fontawesome.com/v4/cheatsheet/"
+    },
+    {
+      "nome": "sdsds",
+      "link": "http://localhost:5173/creation"
+    }
+  ]
+}

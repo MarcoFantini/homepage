@@ -1,0 +1,41 @@
+{
+  "name": "Marco Fantini",
+  "title": "Software Engineer",
+  "contacts": {
+    "email": "mar.fantini@outlook.it",
+    "phone": "+39 333 1234567",
+    "location": "Roma, Italia"
+  },
+  "profile": "Ingegnere informatico con esperienza nello sviluppo di applicazioni web e mobile, appassionato di tecnologie moderne e soluzioni innovative.",
+  "experience": [
+    {
+      "role": "Software Engineer II - Frontend Developer",
+      "company": "Tech Solutions",
+      "period": "Maggio 2022 - Presente",
+      "description": "Sviluppo di interfacce web moderne in React e Next.js, collaborando con il team di UX/UI."
+    },
+    {
+      "role": "Junior Developer",
+      "company": "JPanik S.r.l.",
+      "period": "Giugno 2021 - Ottobre 2021",
+      "description": "Manutenzione e sviluppo di applicazioni web su stack MERN."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Laurea in Ingegneria Informatica",
+      "institution": "Università Roma Tre",
+      "period": "2015 - In corso"
+    }
+  ],
+  "skills": [
+    "React",
+    "TypeScript",
+    "Node.js",
+    "Docker",
+    "Git",
+    "PostgreSQL",
+    "WebXr",
+    "GoJs"
+  ]
+}
