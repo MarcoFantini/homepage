@@ -75,6 +75,7 @@ const Todoist: React.FC = () => {
       })
     );
     setCheckedTasks(savedTasks);
+    // eslint-disable-next-line
   }, []);
 
   const handleCheckboxChange = (id: string) => {
@@ -134,7 +135,7 @@ const styles = {
     margin: 0,
     padding: "20px",
     color: "#333",
-    marginTop: "40px"
+    marginTop: "40px",
   },
   title: {
     textAlign: "center" as const,

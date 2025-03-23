@@ -14,7 +14,7 @@ const CVReader: React.FC = () => {
       <div className="body-cv">
         <div className="animated-panel mb-3">
           <Card title={data.name} subTitle={data.title} className="p-3">
-            <img src={logo} className="img" />
+            <img src={logo} className="img" alt="" />
             <p>
               <i className="pi pi-envelope p-mr-2" /> {data.contacts.email}
             </p>
