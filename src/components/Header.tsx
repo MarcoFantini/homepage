@@ -36,7 +36,7 @@ const Header: React.FC = () => {
 
   return (
     <div
-      className="p-fixed p-top-0 p-left-0 p-right-0 p-shadow-2"
+      className="fixed top-0 left-0 right-0 shadow-2"
       style={{ zIndex: 100 }}
     >
       <Menubar model={items} />

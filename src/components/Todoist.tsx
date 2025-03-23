@@ -134,6 +134,7 @@ const styles = {
     margin: 0,
     padding: "20px",
     color: "#333",
+    marginTop: "40px"
   },
   title: {
     textAlign: "center" as const,

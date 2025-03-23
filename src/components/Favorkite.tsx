@@ -174,7 +174,7 @@ const Favorkite: React.FC = () => {
   const transformedData = transformData(convertToFavoritesData(favoritesData));
 
   return (
-    <div style={{ width: "80%", margin: "0 auto" }}>
+    <div style={{ width: "80%", margin: "0 auto", marginTop: "70px" }}>
       <h2>Favorites</h2>
       <PanelMenu model={transformedData} />
     </div>

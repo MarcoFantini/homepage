@@ -45,7 +45,17 @@ const App: React.FC = () => {
 
   if (!isAuthenticated) {
     return (
-      <div className="flex justify-center items-center min-h-screen bg-gray-100">
+      <div
+        style={{
+          margin: "0 auto",
+          position: "absolute",
+          top: "50%",
+          left: "50%",
+          marginLeft: "-15rem",
+          marginTop: "-15rem"
+        }}
+        className="w-30rem h-30rem min-h-screen bg-gray-100"
+      >
         <Card
           className="shadow-4 w-96 p-6"
           style={{ borderRadius: "1rem", backgroundColor: "#ffffff" }}
