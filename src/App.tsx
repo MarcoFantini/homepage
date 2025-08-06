@@ -37,10 +37,10 @@ const App: React.FC = () => {
       path: "/favorkite",
       element: <Favorkite />,
     },
-    {
-      path: "/todoist",
-      element: <Todoist />,
-    },
+    //{
+      //path: "/todoist",
+      //element: <Todoist />,
+    //},
   ];
 
   if (!isAuthenticated) {
